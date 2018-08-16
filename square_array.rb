@@ -6,3 +6,7 @@ def square_array(array)
   end
   new_array
 end
+
+array = [1, 2, 3]
+
+square_array(array)
